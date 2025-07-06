@@ -1,4 +1,4 @@
-Alkylation in Petroleum Refining
+# Alkylation in Petroleum Refining
 
 Alkylation is a crucial process in the petroleum refining industry, particularly for producing high-octane gasoline. The process involves the reaction of light olefins, such as propylene (C3) and butylene (C4), with isobutane in the presence of a strong acid catalyst to form alkylate. Alkylate is a high-quality blending component for gasoline due to its high octane number, low vapour pressure, and lack of sulphur and aromatics, making it ideal for producing cleaner-burning fuels. There are two most widely used alkylation processes-
 
